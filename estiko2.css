@@ -121,8 +121,8 @@ li:hover:nth-child(3) a::after {
 
 .fa-brands {
     color: #262626;
-    font-size: 6px;
-    line-height: 4px;
+    font-size: 60px;
+    line-height: 1px;
     transition: .5s;
     padding-right: 14px;
 
