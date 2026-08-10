@@ -49,11 +49,10 @@ nav a {
     text-decoration: none;
     margin: 0 20px;
 }
-
 p {
     font-family: Arial, sans-serif;
     font-size: 20px;
     font-weight: bold;
     text-align: center;
-     color: white;
+    color: #f6f3f3;
 }
